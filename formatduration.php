@@ -1,4 +1,4 @@
-// formatDuration.php made by https://wreeper.top/
+// formatDuration.php made by https://wreeper.com/
 function formatDuration($seconds) {
     if ($seconds <= 0) return '0 seconds';
     $now = new DateTime();
